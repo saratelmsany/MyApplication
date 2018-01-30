@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void Sara(){
 
         int i=1;
+        i++;
     }
 
 }
